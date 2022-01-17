@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @johnoct-au
-- 👀 I’m interested in DevOps, Cloud, CI/CD
-- 🌱 I’m currently learning DevOps, Cloud, CI/CD
-- 💞️ I’m looking to collaborate on DevOps, Cloud, CI/CD
 - 📫 How to reach me ... Slack: @john, Email: john.octubre@autonomic.ai
 
 <!---
